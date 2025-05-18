@@ -20,7 +20,7 @@ This project is a Python-based Text Summarization application that leverages Hug
 - Simple web UI with Streamlit for easy interaction.
 
 ---
-##output
+## output
 ![Image](https://github.com/user-attachments/assets/74b6acb5-1942-4ea5-a8ae-02109b31c984)
 
 ## Installation
