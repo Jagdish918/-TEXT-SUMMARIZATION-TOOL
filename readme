@@ -20,6 +20,8 @@ This project is a Python-based Text Summarization application that leverages Hug
 - Simple web UI with Streamlit for easy interaction.
 
 ---
+##output
+![Image](https://github.com/user-attachments/assets/74b6acb5-1942-4ea5-a8ae-02109b31c984)
 
 ## Installation
 
@@ -27,5 +29,5 @@ Make sure you have Python 3.7 or above installed.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo/text-summarization-app.git
+   git clone https://github.com/Jagdish918/-TEXT-SUMMARIZATION-TOOL
    cd text-summarization-app
